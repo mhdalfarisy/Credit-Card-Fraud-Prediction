@@ -47,7 +47,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 ### **Definisi Kolom**
 #
 | --- | --- |
-|**Credit Card Fraud**||
+|**Credit Card Fraud**|
 |Distance From Home| The distance from home where the transaction happened|
 |Distance From Last Transaction| The distance from last transaction happened|
 |Ratio To Median Purchase Price| Ratio of purchased price transaction to median purchase price|
@@ -56,6 +56,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 |Used Pin Number| Is the transaction happened by using PIN number|
 |Online Order | Is the transaction an online order|
 |Fraud | Is the transaction fraudulent|
+
 
 ### **Kesimpulan**
 
