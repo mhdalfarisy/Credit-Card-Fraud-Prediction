@@ -73,8 +73,6 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 
 <br>
 
-<br>
-
 # **OTHERS PROJECT**
 
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
