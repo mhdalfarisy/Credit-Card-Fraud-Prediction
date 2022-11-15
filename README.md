@@ -73,7 +73,9 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 
 <br>
 
-# **Others Project**
+<br>
+
+# **OTHERS PROJECT**
 
 <br>
 <table>
@@ -101,7 +103,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 <tbody>
  <tr>
  
-<h1 align="left">Machine Learning</h1>
+<h1 align="left">Machine Learning - Supervised</h1>
 
 <td align="left" width="20%">
 <span><b><left>California House Price</center></b></span> 
@@ -133,6 +135,30 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 </table>
  <tr>
   
+<h1 align="left">Machine Learning - Unsupervised</h1>  
+
+<table>
+<tbody>
+ <tr>  
+  
+<!-- <tr> -->
+<td align="center" width="50%">
+<span><b><left>Segmentation Customer Mall</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
+<img height=250px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
+</td>
+ 
+<!-- <tr> -->
+<td align="center" width="50%">
+<span><b><left>Segmentation Customer Supermarket</center></b></span>
+<code><a href="https://github.com/mhdalfarisy/Customer-Supermarket" target="_blank">
+<img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
+</td> 
+ 
+</tbody>
+</table>
+ <tr>
+  
 <br>
 
 <table>
@@ -141,7 +167,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 
 <h1 align="left">Data Visualization</h1>
   
-<td align="left" width="30%">
+<td align="left" width="20%">
 <span><b><Left>E-Commers Pakistan</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Pakistan%20Visualisasi.png"> 
@@ -158,7 +184,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 <td align="left" width="25%">
 <span><b><left>Telco Customer Churn</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/CustomerChunVisualization/Dashboard2?publish=yes" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Telco%20Customer%20%2022.png"> 
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Telco%20Customer%20Churn.png"> 
 </td>
  
 </tbody>
@@ -213,3 +239,4 @@ Berdasarkan konsekuensinya, maka sebisa mungkin model yang akan dibuat dapat mem
 </td>    -->
 
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
+
